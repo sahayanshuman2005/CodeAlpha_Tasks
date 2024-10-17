@@ -73,5 +73,6 @@ if guesses == 0:
     print(f"{' ':{'*'}^60}")
     print("\n!!!Game Over!!!\nYou have lost the game.")
     print(f"{word} was the word.\n")
-    print(f"{' ':{'*'}^60}")
+    print(f"{' ':{'*'}^60}") 
+    print("done")
 # End of Code
